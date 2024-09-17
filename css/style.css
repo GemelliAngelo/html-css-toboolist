@@ -59,4 +59,21 @@
     max-width: 800px;
     margin: 0 auto;
   }
+
+  .list-item {
+    padding: 10px;
+  }
+
+  .check-symbol {
+    color: green;
+    border: 1px solid currentColor;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
   
+  .cross-symbol {
+    color: red;
+    border: 1px solid currentColor;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
