@@ -1,16 +1,35 @@
-/* # RESET */
+/* RESET */
 
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  /* HEADER */
+
+  .upper-header {
+    line-height: 100px;
+    margin: 20px 30px;
+  }
+
+  .page-title {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 4rem;
+
+  }
+
+  .page-logo {
+    height: 100px;
+    vertical-align: middle;
   }
   
-  /* # UTILS */
-  
-  .container {
+  /* BODY */
+
+  .main-body {
+    max-width: 800px;
     margin: 0 auto;
-    padding: 0 10px;
-    width: 1000px;
-    max-width: 100%;
   }
+  
