@@ -60,6 +60,11 @@
     margin: 0 auto;
   }
 
+  .list-title {
+    margin-top: 20px;
+    font-size: 1.6rem;
+  }
+
   .list-item {
     padding: 10px;
   }
@@ -77,3 +82,46 @@
     border-radius: 50%;
     margin-right: 5px;
   }
+
+  .editorial {
+    color: white;
+    background-color: #47adee;
+    border-radius: 10px;
+    padding: 5px;
+  }
+
+  .q1-goals {
+    color: white;
+    background-color: #9c77e7;
+    border-radius: 10px;
+    padding: 5px;
+  }
+  
+  .recruiting {
+    color: white;
+    background-color: #6bc7aa;
+    border-radius: 10px;
+    padding: 5px;
+  }
+  
+  .mobile {
+    color: white;
+    background-color: #f2a139;
+    border-radius: 10px;
+    padding: 5px;
+  }
+  
+  .website {
+    color: white;
+    background-color: #d8649d;
+    border-radius: 10px;
+    padding: 5px;
+  }
+
+  .sales {
+    color: white;
+    background-color: #b0ca23;
+    border-radius: 10px;
+    padding: 5px;
+  }
+  
