@@ -29,6 +29,7 @@
   .bottom-header {
     max-width: 800px;
     margin: 40px auto;
+    padding: 0 15px;
   }
 
   .task-button {
@@ -58,6 +59,7 @@
   .main-body {
     max-width: 800px;
     margin: 0 auto;
+    padding: 0px 15px;
   }
 
   .list-title {
